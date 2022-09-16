@@ -1,3 +1,0 @@
-# food-order-tkinter
-just run the py file and select the button to place an order
-an txt order file will be created showiing the details of the order...
